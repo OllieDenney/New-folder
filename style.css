@@ -31,6 +31,33 @@ li {
   background-color: #666;
 }
 
+.ch3list {
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  float: none;
+  padding: 0px;
+}
+
+.ch3nav {
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.ch3ul {
+  padding: 0px;
+}
+
+.ch3image {
+  width: 86.5%;
+  height: 86.5%;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 50px;
+}
+
 li a {
   display: block;
   color: white;
@@ -59,4 +86,17 @@ ul {
 .second-section {
     padding: 50px 40px 50px;
     background-color: #55e07f;
+}
+
+.section2 {
+  padding: 80px 40px 20px;
+  width: 80%;
+  margin: 30px auto;
+  background-color: #55e07f;
+}
+
+footer {
+  text-align: center;
+  background-color: #666;
+  width: 100%;
 }
